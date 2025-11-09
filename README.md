@@ -1,0 +1,2 @@
+# emptyVault
+A Obsidian Vault
