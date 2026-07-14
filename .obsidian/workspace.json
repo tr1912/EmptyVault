@@ -94,8 +94,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,9 +201,19 @@
               "icon": "lucide-info",
               "title": "template_metainfo_yaml的笔记属性"
             }
+          },
+          {
+            "id": "4016b16b2dd300c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -226,8 +235,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1a3d21c3609e9b91",
+  "active": "4016b16b2dd300c5",
   "lastOpenFiles": [
+    "README.md",
+    "attachment/站位.txt",
+    "02 MeetingRecord/站位.txt",
+    "01 Diary/站位.txt",
+    "01 Diary/新建文本文档.txt",
     "02 MeetingRecord/2024-11-10会议记录.md",
     "01 Diary/20241109_周六.md",
     "01 Diary/20241110_周日.md",
@@ -247,11 +261,7 @@
     "00 Inbox/未命名",
     "00 Inbox/双链演示/副笔记.md",
     "00 Inbox/模板",
-    "00 Inbox/双链演示",
-    "https",
     "attachment/Pasted image 20241110150517.png",
-    "attachment",
-    "00 Inbox",
     "00 Inbox/!Hello World.md",
     "00 Inbox/2024-01-07.md",
     "00 Inbox/page2.md",
